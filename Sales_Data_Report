@@ -1,1 +1,50 @@
+# Tommy’s Chocolate Sales Performance Report
+
+**Author**: Tomilola  
+**Date**: August 2025  
+**Medium Article**: [Read the full report](https://medium.com/@ayomitomilola84/tommys-chocolate-sales-performance-report-04c3021d1cf4)
+
+## Overview
+This report dissects Excel-based sales data spanning January 2021 to March 2022 across eight sheets, including rich dashboards and KPI summaries.
+
+## File Structure & Sheets
+- `Analysis`: High-level KPIs and breakdowns.  
+- `DashBoard (2)`, `Dark Theme Dashboard`, `Light Theme Dashboard`: Interactive visuals.  
+- `Fact_Table`: 9,449 transactional entries across 17 columns.  
+- `Sales_person`, `Products`, `Locations`: Lookup tables for various dimensions.
+
+## Key Metrics
+| Metric                        | Value                    |
+|-------------------------------|--------------------------|
+| Total Revenue                 | $21,270,456.14           |
+| Total Boxes Sold              | 3,342,722                |
+| Product Count                 | 22                       |
+| Salesperson Count             | 25                       |
+| Market Coverage (regions)     | 6                        |
+
+Highlights:
+- Bars: $5.65M (43.5%)  
+- Bites: $5.20M (40.1%)  
+- APAC Revenue: $6.98M (32.8%)  
+- Top Salesperson: Gunar Cockshoot (~$1M)  
+- Top Product: 70% Dark Bites (~$2.25M)
+
+## Insights & Opportunities
+- Strong performance in APAC and Bites category  
+- Key performers: focus for mentorship and marketing  
+- Need for formula validation and data cleaning  
+- Opportunity to adopt BI tools for scalability and ongoing insights
+
+## Tools & Methods
+- Excel for aggregation and visualization (PivotTables, validation)  
+- Basic dashboards with theme variations for presentation flexibility
+
+## Action Plan
+1. Validate and correct data calculations and remove formula errors  
+2. Enhance dashboards using Power BI or Tableau  
+3. Amplify top products and performers for strategic leverage  
+4. Extend analytics timeline beyond March 2022 for trend monitoring
+
+## Conclusion
+Tommy’s Chocolate shows solid performance and spatial diversity. With refined data processes and enhanced analytical tools, the company is well-positioned for continued growth and efficiency.
 
